@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonbeirouti
 - 👀 I’m interested in building cool things for the world to use. I'm stil trying to get there, but the journey is more impportant then the destination!
-- 🌱 I’m currently learning how to build out full-stack projects so I can test, create and launch anything I want.
-- 💞️ I’m looking to collaborate on new ideas, projects and anything related to web3!
+- 🌱 I’m currently building full-stack projects so I can test, create and launch anything I want.
+- 💞️ I’m looking to collaborate on new idea and projects!
 - 📫 You can find me on here, or on [Twitter](https://twitter.com/simgbei) or [LinkedIn](https://linkedin.com/in/simonbeirouti)!
